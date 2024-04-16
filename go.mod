@@ -1,4 +1,4 @@
-module socgeaph
+module maket
 
 go 1.20
 
